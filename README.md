@@ -1,6 +1,7 @@
 # Git_Learn
 
-For Learning Git
+For Learning Git 
+This Repo will never die :D
 
 Change Something
 
